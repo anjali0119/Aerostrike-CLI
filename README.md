@@ -43,7 +43,7 @@ Clone the repository and compile the source code using the terminal:
 
 ```bash
 # Compile the C++ file
-g++ game.cpp -o aerostrike
+g++ game.cpp -o game
 
 # Run the executable
-./aerostrike
+./game
