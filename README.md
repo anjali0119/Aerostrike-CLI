@@ -47,12 +47,3 @@ g++ game.cpp -o aerostrike
 
 # Run the executable
 ./aerostrike
-
-
----
-
-## Author
-
-**Name:** Anjali Pogulwad  
-**Course:** DA1206 Data Structures and Algorithms Welcome Project  
-**Language Used:** C++
